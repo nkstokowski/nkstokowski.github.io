@@ -1,6 +1,7 @@
-# layout: page
+---
+layout: page
+title: "Privacy"
+permalink: /privacy
+---
 
-# title: "Privacy"
-
-# permalink: /privacy
-
+Test
