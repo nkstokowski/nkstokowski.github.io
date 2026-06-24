@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Privacy"
+permalink: /privacy
+---
+
 **Privacy Policy**
 
 This privacy policy applies to the Specialist Cafe app for mobile devices, together with any related services operated by Mochso Games (collectively, the "Application"). Mochso Games is hereby referred to as the "Service Provider".
